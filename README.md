@@ -32,5 +32,9 @@ Nosso projeto é uma aplicação mobile projetada para facilitar a vida de quem 
 + Gabriel Soares
 
 
+TELAS 
+
+![image](https://github.com/user-attachments/assets/ac168701-ceb7-4160-9248-55f05b30f23a)
+
 
 
