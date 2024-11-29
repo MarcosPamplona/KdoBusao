@@ -32,33 +32,41 @@ Nosso projeto é uma aplicação mobile projetada para facilitar a vida de quem 
 + Gabriel Soares
 
 
-##Telas Desenvolvidas 
+Telas Desenvolvidas 
 
 - Login:
+  
 ![image](https://github.com/user-attachments/assets/951c2c5a-f587-4bae-852a-51dfa620cc36)
 
 - Cadastro:
+
 ![image](https://github.com/user-attachments/assets/ef1ddad5-24ac-40dc-9f0b-0a6acaa46524)
 
 - Menu Inicial
+
 ![image](https://github.com/user-attachments/assets/ed63d243-01cc-4da3-b767-af2f160cd6da)
 
 - Mapa para Busca de Rotas:
+
 ![image](https://github.com/user-attachments/assets/e429caa4-039e-4fcf-bdae-7ffbe2d07884)
 
 - Busca Horários:
+
 ![image](https://github.com/user-attachments/assets/2773cffc-5bc3-40a0-96d0-ce1e296491a0)
 
-#Conexões
+Conexões
 
 - FireBase Cadastro de Usuários.
+
 ![image](https://github.com/user-attachments/assets/688f8eee-648e-43b1-8af8-8786ada0886c)
 
 - Conexão entre FireBase e FlutterFlow.
+
 ![image](https://github.com/user-attachments/assets/9d2c74ec-8376-47f9-baa9-db279fa09194)
 
 - API URBS para busca de horários e itinerarios. 
-  ![image](https://github.com/user-attachments/assets/34ac5f99-e0f7-4211-9a47-3597004b48e5)
+
+![image](https://github.com/user-attachments/assets/34ac5f99-e0f7-4211-9a47-3597004b48e5)
 
 - API Google para busca de endereços e rotas.
   
